@@ -32,5 +32,4 @@
 
 ------
 
-或者，打开[此链接](https://raw.github.com/azusasoft/answersheet/master/bookmarklet.html)，直接将网页内的链接加入收藏夹
 
