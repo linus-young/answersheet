@@ -28,7 +28,7 @@
 
 备份用：将下列代码放入收藏夹
     
-    javascript:{var head = document.getElementsByTagName('head'\).item(0\);var script= document.createElement('script'\);script.type = 'text/javascript';script.charset='utf-8';script.src='https://raw.github.com/halftan/odds_ends/master/examination.push.js';head.appendChild(script\);})
+    javascript:{var head = document.getElementsByTagName('head'\).item(0\);var script= document.createElement('script'\);script.type = 'text/javascript';script.charset='utf-8';script.src='https://gitcafe.com/HalFtaN/odds_ends/raw/master/examination.push.js';head.appendChild(script\);})
 
 ------
 
